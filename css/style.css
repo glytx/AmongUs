@@ -1,0 +1,19 @@
+body {
+	background-image: url(../img/back.jpg);
+	background-position: center right;
+	color: white;
+	font-weight: 900;
+}
+
+.wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.form {
+	max-width: 360px;
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	font-size: 36px;
+}
